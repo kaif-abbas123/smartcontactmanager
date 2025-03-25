@@ -1,0 +1,1 @@
+Welcome to the "Smart Contact Manager". I present to you, the new way of Storing and managing 'Users Contacts' Datas. Forget using tradition method of Storing and manageing data of the Users, Use the Proven Smart contact manager.
